@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Syntiche\Desktop\exercice-android-owler692-master\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\appturbo\appturbotest\ListApplicationFragment.class
+CHANGED,C:\Users\Syntiche\Desktop\exercice-android-owler692-master\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\appturbo\appturbotest\ListApplicationFragment$1.class

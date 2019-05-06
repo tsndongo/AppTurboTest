@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="428937057627485" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Syntiche\Desktop\exercice-android-owler692-master\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="428722432848688" >
+        <artifact
+            location="C:\Users\Syntiche\Desktop\exercice-android-owler692-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="428868990296132"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Syntiche\Desktop\exercice-android-owler692-master\app\build\intermediates\builds\debug\428868990296132\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="428892711783457"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Syntiche\Desktop\exercice-android-owler692-master\app\build\intermediates\builds\debug\428892711783457\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="428937057627485" >
+        <artifact
+            location="C:\Users\Syntiche\Desktop\exercice-android-owler692-master\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

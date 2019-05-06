@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_section1">Listes d\'applis</string>
+    <string name="title_section2">A propos</string>
+    <string name="navigation_drawer_open">Ouvrir tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer tiroir de navigation</string>
+
+    <string name="appturbo_description"  formatted="false">Crée en 2011, AppTurbo est fondée sur une idée simple. Nous sommes maintenant present a l\'international et disponible en 15 langues.\n\nAvec plus de 50 employés de 15 nationalités, nous créons du contenu unique and excitant quotidiennement pour nos 36 millions utilisateurs. Et le sourire y est inclue.</string>
+    <string name="my_description"  formatted="false">"Je m\'appelle Takou Syntiche N'DONGO, et j\'ai 24 ans. Je passe ce test ayant pour but d\'obtenir un stage chez AppTurbo de septembre 2016 à février 2017. </string>
+
+    <string name="logo_content_desc">Logo de l\'application</string>
+    <string name="screenshot_content_desc">Screenshot de l\'application</string>
+</resources>
